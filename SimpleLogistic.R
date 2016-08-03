@@ -1,4 +1,5 @@
 
+# implementation from http://pingax.com/logistic-regression-r-step-step-implementation-part-2/
 
 #Sigmoid function
 sigmoid <- function(z)
